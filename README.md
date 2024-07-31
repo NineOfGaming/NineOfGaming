@@ -1,4 +1,6 @@
-## Hi there 👋
+# NineOfGaming
+Ill put something here when i have time
+Here is my empty <a href="nineofgaming.github.io" target="_blank">Website</a>, ill put something here too when i have the time
 
 <!--
 **NineOfGaming/NineOfGaming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

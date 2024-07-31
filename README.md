@@ -1,7 +1,7 @@
 # NineOfGaming
 Ill put something here when i have time.
 
-Here is my empty <a href="https://nineofgaming.github.io" target="_blank">Website</a> <a href="https://nineofgaming.github.io" onclick="window.open(this.href, '_blank'); return false;">Website2</a>, ill put something here too when i have the time.
+Here is my empty <a href="https://nineofgaming.github.io" target="_blank">Website</a>, ill put something here too when i have the time.
 
 <!--
 **NineOfGaming/NineOfGaming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
